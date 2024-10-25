@@ -3,8 +3,9 @@ em tên là Đào Đình Minh Đạt, hiện đang là thành vien của nhóm 3
 CÔNG NGHỆ😉 :
 hiện nay em đã được trải nghiệm các công nghệ như : 
 GITHUB![image](https://github.com/user-attachments/assets/4d5e1e4e-e21d-4d8c-b1f1-d1c4aaf40e26), 
-microsoft Project  ![image](https://github.com/user-attachments/assets/dfce7e85-d729-4fb1-be14-4a03914aefa3),  
+microsoft Project ![image](https://github.com/user-attachments/assets/fac55457-679d-46a2-a225-be2fbf8c4f8b)
 mircosoft visual studio ![image](https://github.com/user-attachments/assets/c3db2917-6719-40a8-8ef6-2ada056604a5).
+
 NGÔN NGỮ LẬP TRÌNH 😎:
 đây là  phần em        
 
